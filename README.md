@@ -1,6 +1,3 @@
-# ROS2-Assignment-5
-Details on using lyrical to Jetty instead of Kilted to Jazzy
-
 # ROS Assignment 5 — TurtleBot3 in Gazebo (Ubuntu 26.04 / ROS 2 Lyrical)
 
 This repository documents a **working adaptation** of ROS Assignment 5 / Tutorial 5 from the `ros2_workshop` to an existing Ubuntu 26.04 VMware VM with **ROS 2 Lyrical**.

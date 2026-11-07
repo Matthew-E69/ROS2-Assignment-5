@@ -2,8 +2,6 @@
 
 This repository documents a **working adaptation** of ROS Assignment 5 / Tutorial 5 from the `ros2_workshop` to an existing Ubuntu 26.04 VMware VM with **ROS 2 Lyrical**.
 
-> **Status:** Gazebo runs, the TurtleBot3 house simulation loads, and a keyboard controller successfully moves TurtleBot3. The final screenshot (robot inside house **and** keyboard terminal) still needs to be provided. The included PDF is a draft with a screenshot placeholder, **not a final submission**.
-
 ## Why this adaptation was needed
 
 The professor's tutorial uses Ubuntu 24.04, ROS 2 Jazzy, and Gazebo Harmonic. The existing VM uses Ubuntu 26.04, ROS 2 Lyrical, and Gazebo Jetty. The `kilted_to_jazzy.sh` conversion script was **not** run because it was made for a different operating-system/ROS setup and is unnecessary when the existing installation works.

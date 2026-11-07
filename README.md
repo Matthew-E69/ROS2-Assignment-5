@@ -136,11 +136,9 @@ ros2 launch turtlebot3_gazebo turtlebot3_house.launch.py
 
 **Expected result:** Gazebo opens a house scene containing the TurtleBot3 robot.
 
-**My result:** The house and robot appeared correctly.
-
 ## Step 6 — Install keyboard controls
 
-The professor's tutorial uses `turtlebot3_teleop`, but my ROS 2 Lyrical repository did not have that package.
+The professor's tutorial uses `turtlebot3_teleop`, but ROS 2 Lyrical repository did not have that package.
 
 **1. Check availability of the original controller:**
 
@@ -172,7 +170,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -p stamped:=true
 
 The `stamped:=true` parameter selects stamped velocity commands for this setup.
 
-**My result:** The controller launched and TurtleBot3 moved in response to keyboard commands.
+**result:** The controller launched and TurtleBot3 moved in response to keyboard commands.
 
 ## Step 7 — Drive the robot inside the house
 
@@ -188,7 +186,7 @@ Keep **Terminal 2 selected** to receive keyboard input.
 | `k` or Space | Stop |
 | Ctrl+C | Exit the controller |
 
-Use the keys to drive TurtleBot3 into the house and then press `k` to stop.
+Use the above keys to drive TurtleBot3 into the house and then press `k` to stop.
 
 ## Troubleshooting notes from the ChatGPT discussion
 

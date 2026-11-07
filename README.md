@@ -78,8 +78,5 @@ sudo apt install ros-lyrical-teleop-twist-keyboard
 
 - Workshop repository: <https://github.com/thillRobot/ros2_workshop>
 
-This repo summarizes the **user's actual Lyrical adaptation**, not the professor's original Jazzy workflow.
+This repo summarizes the **user's actual Lyrical adaptation**, not the original workflow through Jazzy.
 
-## Privacy
-
-The conversation notes are specific to a user's experience. Consider keeping this repository **private**, particularly if adding an unedited chat transcript, personal terminal screenshots, computer usernames, or course-submission materials. No full verbatim ChatGPT transcript is included here; a condensed, edited discussion log is included instead.

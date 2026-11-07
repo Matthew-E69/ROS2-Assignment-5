@@ -68,7 +68,7 @@ Choose a built-in world and select **Run**.
 
 **My result:** Gazebo opened successfully. Close the test simulation before proceeding.
 
-> **Terminal tip:** If the prompt doesn't return after running Gazebo, press **Ctrl+C** in its terminal or open another terminal with **Ctrl+Alt+T**. I encountered this when trying to enter `sudo apt update`.
+> If the prompt doesn't return after running Gazebo, press **Ctrl+C** in its terminal or open another terminal with **Ctrl+Alt+T**. I encountered this when trying to enter `sudo apt update`.
 
 ## Step 3 — Install TurtleBot3 simulation packages
 
